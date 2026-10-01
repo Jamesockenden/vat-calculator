@@ -4,7 +4,8 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgb(0, 9, 128);
+  background-color: #bbbbbb;
   padding: 10px;
 }
 
